@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+}
+html,body{
+	height: 100%;
+}
+.sence{
+	width: 601px;
+	height: 601px;
+	background: #999;
+	margin: 0 auto;
+}
+.b{
+	width: 29px;
+	height: 29px;
+	margin: 1px 0 0 1px;
+	background-color: #fff;
+	float: left;
+}
+.s{
+	background-color: #50ef50;
+}
+.food{
+	background-color: #e4005f;
+}
